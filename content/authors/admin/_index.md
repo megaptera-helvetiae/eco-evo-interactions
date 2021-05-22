@@ -6,7 +6,7 @@ title: Laetitia G.E. Wilkins
 superuser: true
 
 # Role/position
-role: Max Planck Research Group Leader
+role: Max Planck Research Group Leader (starting March 2022)
 
 # Organizations/Affiliations
 organizations:
@@ -52,5 +52,5 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr. Laetitia G.E. Wilkins is a Research Group Leader at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She cares about diversity, creativity and an inclusive environment in academia. She strongly supports reproducible and open research.
+Dr. Laetitia G.E. Wilkins is a Research Group Leader (starting March 2022) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She cares about diversity, creativity and an inclusive environment in academia. She strongly supports reproducible and open research.
 
