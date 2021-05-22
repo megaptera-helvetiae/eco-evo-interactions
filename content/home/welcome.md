@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Eco-Evolutionary Interactions group will start in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen, Germany.
+The EcoEvo Group will start in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen, Germany. Established by the lead PI Laetitia G.E. Wilkins.
