@@ -28,7 +28,7 @@
   url = "publication"
   weight = 50
 
-  [[main]]
+[[main]]
   name = "Fieldwork"
   url = "fieldwork"
   weight = 50
@@ -37,3 +37,8 @@
   name = "Contact"
   url = "contact"
   weight = 60
+  
+[[main]]
+  name = "Test"
+  url = "Test"
+  weight = 30
