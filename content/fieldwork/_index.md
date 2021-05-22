@@ -2,20 +2,11 @@
 title: Courses
 type: page
 
-header:
-  caption: ""
-  image: ""
----
+Some random text.
 
-I teach the following courses:
-
----
 title: Courses
 type: page
 
-header:
-  caption: ""
-  image: ""
+Some random text.
 ---
 
-I teach the following courses:
