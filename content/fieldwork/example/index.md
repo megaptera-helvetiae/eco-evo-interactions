@@ -1,5 +1,5 @@
 ---
-title: Research in the EcoEvo Lab
+title: Example Event
 
 event: Wowchemy Conference
 event_url: https://example.org
