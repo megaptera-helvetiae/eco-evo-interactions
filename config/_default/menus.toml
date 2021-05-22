@@ -19,13 +19,18 @@
   weight = 30
 
 [[main]]
-  name = "Field Trips"
+  name = "Research"
   url = "event"
   weight = 40
 
 [[main]]
   name = "Publications"
   url = "publication"
+  weight = 50
+  
+  [[main]]
+  name = "Field Trips"
+  url = "Events"
   weight = 50
 
 [[main]]
