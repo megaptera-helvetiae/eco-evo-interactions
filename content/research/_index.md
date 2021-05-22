@@ -12,9 +12,9 @@ And then a photo.
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+header: our research
+  caption: "Guanacaste critter"
+  image: "critter.jpg"
 
 design:
   columns: '1'
