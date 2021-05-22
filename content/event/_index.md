@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Research in the EcoEvo Lab
 
 # View.
 #   1 = List
