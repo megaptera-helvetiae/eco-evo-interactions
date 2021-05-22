@@ -3,7 +3,7 @@ title: ISME Unity in Diversity
 date: 2020-11-11
 ---
 
-Last November we hosted a global, virtual conference for Early Career Microbial Ecologists #UnityInDiversity
+Last November, we hosted a global, virtual conference for Early Career Microbial Ecologists #UnityInDiversity
 
 <!--more-->
 
