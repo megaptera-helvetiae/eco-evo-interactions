@@ -1,5 +1,5 @@
 ---
-title: Panama
+title: Impressions from our expeditions
 
 # View.
 #   1 = List
