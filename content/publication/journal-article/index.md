@@ -3,9 +3,6 @@ title: "Host-associated microbiomes drive structure and function of marine ecosy
 authors:
 - admin
 - Matthieu Leray et al.
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "November 11, 2019"
 doi: "https://doi.org/10.1371/journal.pbio.3000533"
 
