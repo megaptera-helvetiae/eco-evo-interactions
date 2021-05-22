@@ -1,5 +1,5 @@
 ---
-title: Research in the EcoEvo Lab
+title: Molecular divergence and evolution since the closure of the Isthmus of Panamá
 
 event: Wowchemy Conference
 event_url: https://example.org
