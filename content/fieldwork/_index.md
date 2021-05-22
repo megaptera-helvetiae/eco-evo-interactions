@@ -18,3 +18,5 @@ On a field expedition in Costa Rica during an exterme low tide event in March 20
 {{< figure library="true" src="puravida1.jpg" caption="pura vida 1" >}}
 {{< figure library="true" src="puravida2.jpg" caption="pura vida 2" >}}
 {{< figure library="true" src="puravida3.jpg" caption="pura vida 3" >}}
+{{< figure library="true" src="puravida4.jpg" caption="pura vida 4" >}}
+{{< figure library="true" src="puravida0.jpg" caption="pura vida 0" >}}
