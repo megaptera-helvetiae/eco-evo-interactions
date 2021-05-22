@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Dr. Wilkins was offered to establish and lead an independent, free floating Max Planck Research Group by the Max Planck Society. The group will launch in March 2022. We are going to study animal-microbial interactions in evolutionary times scales. If you are have questions about our research, if you would like to visit us or even join our group do not hesitate to contact us. Looking forward to hearing from you!
