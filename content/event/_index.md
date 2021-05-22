@@ -1,5 +1,5 @@
 ---
-title: Molecular divergence and evolution since the closure of the Isthmus of Panamá
+title: Research topics in the EcoEvo Lab
 
 content: And here comes a lot of text I guess.
 And then a photo. 
