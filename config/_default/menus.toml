@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "Field Trips"
   url = "event"
   weight = 40
 
