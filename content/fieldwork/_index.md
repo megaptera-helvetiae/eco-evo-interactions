@@ -15,6 +15,7 @@ Matt Leray and I led the organization of a second workshop (a follow-up), funded
 
 ## Pura Vida
 On a field expedition in Costa Rica during an exterme low tide event in March 2018. Accoompanied by amazing friends. Biodiversity. Life. Connecting with wonderful researchers. 
+{{< figure library="true" src="UCR.jpg" caption="Meeting our collaborator Dra. Yolanda Camacho at the University of Costa Rica" >}}
 {{< figure library="true" src="puravida1.jpg" caption="pura vida 1" >}}
 {{< figure library="true" src="puravida2.jpg" caption="pura vida 2" >}}
 {{< figure library="true" src="puravida3.jpg" caption="pura vida 3" >}}
