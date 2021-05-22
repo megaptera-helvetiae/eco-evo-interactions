@@ -1,7 +1,7 @@
 ---
 title: "Host-associated microbiomes drive structure and function of marine ecosystems"
 authors:
-- Laetitia G.E. Wilkins, Matthieu Leray, et al.
+- Laetitia G.E. Wilkins, Matthieu Leray, and 20 others
 date: "2019-04-07T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pbio.3000533"
 
