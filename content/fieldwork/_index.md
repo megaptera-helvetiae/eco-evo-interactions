@@ -11,7 +11,7 @@ Marine Microbial Symbiosis Workshops: Organized together with Dr. Matthieu Leray
 {{< figure library="true" src="STRI2018.jpg" caption="Workshop participants 2018" >}}
 
 ## #istmobiome workshop #2
-Matt Leray and I organized a second workshop, funded by the Gordon and Betty Moore Foundation and STRI provost John Davis (same place; Dec 1-7, 2019) https://stri.si.edu/microbiome-workshop.
+Matt Leray and I led the organization of a second workshop (a follow-up), funded by the Gordon and Betty Moore Foundation and STRI provost John Davis (same place; Dec 1-7, 2019). For more information and a photo gallery check out this link: https://stri.si.edu/microbiome-workshop.
 
 ## Pura Vida
 On a field expedition in Costa Rica during an exterme low tide event in March 2018. Accoompanied by amazing friends. Biodiversity. Life. Connecting with wonderful researchers. 
