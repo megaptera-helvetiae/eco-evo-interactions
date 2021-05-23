@@ -20,9 +20,9 @@ content:
   - Postdocs
   - Grad Students
   - Master Students
-  - Administration
   - Visitors
   - Collaborators
+  - Administration
   - Alumni
 design:
   show_interests: false
