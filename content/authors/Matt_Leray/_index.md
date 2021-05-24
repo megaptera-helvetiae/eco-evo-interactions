@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benedict Yuen
+title: Matthieu Leray
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,7 +10,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Vienna, Austria
+- name: Smithsonian Tropical Research Institute, Panamá
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,10 +24,10 @@ bio: To be filled.
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/benedict_yuen
+  link: https://twitter.com/Matt_Leray
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Benedict-Yuen
+  link: https://scholar.google.com/citations?user=DfhawycAAAAJ&hl=fr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Benedict Yuen
+title: Yolanda Camacho Garcia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Vienna, Austria
+- name: University of Costa Rica, Costa Rica
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,12 +22,9 @@ bio: To be filled.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/benedict_yuen
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Benedict-Yuen
+  link: https://www.researchgate.net/profile/Yolanda-Camacho-Garcia
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

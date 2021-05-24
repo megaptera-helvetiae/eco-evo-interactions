@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Benedict Yuen
+title: Jonathan A. Eisen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Vienna, Austria
+- name: University of California, Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,10 +24,10 @@ bio: To be filled.
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/benedict_yuen
+  link: https://twitter.com/phylogenomics
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Benedict-Yuen
+  link: https://scholar.google.com/citations?user=LrlwhwUAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
