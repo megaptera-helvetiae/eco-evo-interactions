@@ -34,7 +34,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/megaptera-helvetiae
-- icon: open-data
+- icon: ideas-repec
 - icon_pack: ai
 - link: https://laetitia.schmid.se/
 # Link to a PDF of your resume/CV from the About widget.
