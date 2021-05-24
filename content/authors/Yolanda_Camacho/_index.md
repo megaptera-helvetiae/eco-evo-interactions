@@ -25,6 +25,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yolanda-Camacho-Garcia
+- icon: readme
+  icon_pack: fab
+  link: https://vinv.ucr.ac.cr/sigpro/web/researchers/108230685
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
