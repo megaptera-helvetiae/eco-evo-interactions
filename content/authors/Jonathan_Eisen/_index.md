@@ -32,8 +32,8 @@ social:
   icon_pack: ai
   link: https://www.inaturalist.org/users/99304
 - icon: birthday-cake
-- icon_pack: fas
-- link: https://phylogenomics.me/
+- icon_pack: far
+- link: https://www.phylogenomics.me/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
