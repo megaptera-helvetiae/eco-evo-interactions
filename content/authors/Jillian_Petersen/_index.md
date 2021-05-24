@@ -28,6 +28,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=UQkiuXMAAAAJ&hl=en
+- icon: bacterium
+- icon_pack: far
+- link: https://dome.csb.univie.ac.at/people/jillian-petersen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
