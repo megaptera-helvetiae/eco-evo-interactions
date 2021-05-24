@@ -31,7 +31,7 @@ social:
 - icon: inaturalist
   icon_pack: ai
   link: https://www.inaturalist.org/users/99304
-- icon: birthday-cake
+- icon: baseball-ball
 - icon_pack: far
 - link: https://www.phylogenomics.me/
 # Link to a PDF of your resume/CV from the About widget.
