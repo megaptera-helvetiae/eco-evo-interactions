@@ -29,10 +29,10 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LrlwhwUAAAAJ&hl=en
 - icon: inaturalist
-  icon_pack: fas
+  icon_pack: ai
   link: https://www.inaturalist.org/users/99304
 - icon: africarxiv
-- icon_pack: fas
+- icon_pack: ai
 - link: https://phylogenomics.me/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
