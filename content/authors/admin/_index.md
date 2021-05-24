@@ -25,6 +25,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:megaptera.helvetiae@gmail.com'
+- icon: website
+  icon_pack: fas
+  link: https://laetitia.schmid.se
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/M_helvetiae
