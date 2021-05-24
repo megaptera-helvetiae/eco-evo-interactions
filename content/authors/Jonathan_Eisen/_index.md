@@ -31,7 +31,7 @@ social:
 - icon: inaturalist
   icon_pack: ai
   link: https://www.inaturalist.org/users/99304
-- icon: africarxiv
+- icon: open-access
 - icon_pack: ai
 - link: https://phylogenomics.me/
 # Link to a PDF of your resume/CV from the About widget.
