@@ -46,4 +46,4 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Vicky is a finishing graduate student at the University of California, Davis in Prof. Richard Grosberg's lab. She just accepted two fellowships: a National Science (NSF) Postdoctoral Research fellowship in Biology (PRFB) for 3 years and then a Stanford Science Fellowship. At Stanford, she will be working in Prof. Lauren O'Connell's lab. Vicky studies the genomic and transcriptomic basis of adaptation to land (terrestriality) in crabs. 
