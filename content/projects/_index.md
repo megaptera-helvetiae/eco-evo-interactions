@@ -14,12 +14,12 @@ We are convinced that microbial symbionts are the key for understanding niche pa
 ## I. What are the rates of molecular divergence and signatures of past adaptation in host and symbiont genomes?
 Based on sequencing data, we are reconstructing the molecular divergence of eukaryotic hosts and their microbial partners after they were separated by the Isthmus of Panamá, and we are characterizing genes that facilitated survival in different habitats. Using long-read sequencing, we are able to achieve an unprecedented level of resolution and reconstruct entire gene families in both hosts and microbes. Shared gene families allow us to investigate what the two partners in the symbiosis have been doing and at what speed are they doing it? We are comparing the rates of molecular divergence among the three genomes (host nuclear, mitochondrial and bacterial symbiont). Complex metazoan genomes vs. streamlined bacterial genomes. Who evolves faster? Is it the host or the symbiont that adapts? And how does the interplay between bacteria and host facilitate adaptation of the meta-organism to new conditions?
 
-{{< figure library="true" src="anvio.jpg" caption="Functional genomic comparisons" >}}
+{{< figure library="true" src="anvio.jpg" caption="Functional genomic comparisons" >}} <p>&nbsp;</p>
 
 ## II. What were the ecological conditions in the past and how did this affect host-microbe interactions?
 Here, we are moving beyond genetic markers and using the fossil record to understand the biogeochemical past of a symbiosis. We are looking into the past to understand the future. Fossils allow us to calibrate rates of evolution and study past host-microbe interactions. We are particularly interested in the nitrogen cycle.
 
-{{< figure library="true" src="fossils.jpg" caption="Fossil collection in the Caribbean" >}}
+{{< figure library="true" src="fossils.jpg" caption="Fossil collection in the Caribbean" >}} <p>&nbsp;</p>
 
 ## III. How quickly can an animal-microbial system adapt to new conditions?
 For this project, we are manipulating the symbiosis in the lab and creating new host-symbiont combinations. These will be exposed to different environments to induce short-term adaptation. The combination of symbiont exchange and common garden experiments lets us answer key questions in symbiosis research and give insight into the mechanisms of host-symbiont interaction. Using cutting-edge imaging techniques at the Max Planck Institute, we are able to visualize expressed genes and exchanged metabolites in real time and quantify how they affect host fitness and survival.
