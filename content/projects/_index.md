@@ -1,11 +1,13 @@
 ---
-title: Connections
+title: Research Projects
 type: page
 ---
 
-Most of our research is based in Central America. Therefore,  we have a strong network of collaborators in Panamá and Costa Rica and we also travel sometimes to the Isthmus ourselves. 
+An introductory summary.
 
-## #istmobiome workshop #1
+{{< figure library="true" src="group_overview_.jpg" caption="Three major research axes" >}}
+
+## Molecular Divergence since the closure of the Isthmus of Panamá
 Marine Microbial Symbiosis Workshops: Organized together with Dr. Matthieu Leray and Dr. Jarrod Scott at Bocas del Toro, Smithsonian Tropical Research Institute, Panamá (STRI; Dec 3-8, 2018). https://istmobiome.rbind.io/workshops/workshop-2018/
 
 {{< figure library="true" src="STRI2018.jpg" caption="Workshop participants 2018" >}}
