@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: To be filled.
+bio: To be filled. TRIAL TRIAL TRIAL!!!
 
 
 # Social/Academic Networking
