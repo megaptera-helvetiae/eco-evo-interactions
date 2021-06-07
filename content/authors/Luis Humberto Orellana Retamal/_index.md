@@ -30,7 +30,7 @@ social:
   link: https://scholar.google.com/citations?user=C2r2xq0AAAAJ&hl=en
 - icon: readme
   icon_pack: fab
-  link: https://www.mpi-bremen.de/Luis-Humberto-Orellana-Retamal-2.html
+  link: https://www.mpi-bremen.de/en/integrative-microbial-genomics.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,4 +49,4 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Coto is a bioinformatician and senior project leader in Prof. Rudi Amann's Department of Molecular Ecology at the Max Planck Institute for Marine Microbiology in Bremen. Coto is using sequencing approaches to characterize natural microbial communities (for example Euryarchaeota) and link their genetic potential observed activities and phenotypes. Currently, he is working on natural surface water populations from the North Sea. Future projects will involve the exploration of sediments and their potential for organic matter degradation. Coto is passionate about open access research practices – and great music. He is actively involved in the mentoring of our team members at all stages. 
