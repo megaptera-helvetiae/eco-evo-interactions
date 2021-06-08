@@ -25,9 +25,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/isimorel?lang=en
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=fRRMQjoAAAAJ&hl=en
 - icon: readme
   icon_pack: fab
   link: https://orcid.org/0000-0003-1402-2393
@@ -49,4 +46,4 @@ user_groups:
 - Ph.D. Students
 ---
 
-Isidora (she/her) is a Chilean feminist PhD student at the Eco-Evolutionary Interactions group (starting March 2020) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She is interested on the evolution of cooperative interactions -i.e. symbiosis - in an ecological context. 
+Isidora (she/her) is a Chilean feminist PhD student at the Eco-Evolutionary Interactions group (starting March 2020) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She is interested on the evolution of cooperative interactions -i.e. symbiosis - in an ecological context.
