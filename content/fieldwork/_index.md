@@ -14,7 +14,7 @@ Marine Microbial Symbiosis Workshops: Organized together with Dr. Matthieu Leray
 Dr. Matt Leray and Dr. Laetitia Wilkins led the organization of a second workshop (a follow-up), funded by the Gordon and Betty Moore Foundation and STRI provost John Davis (same place; Dec 1-7, 2019). For more information and a photo gallery check out this link: https://stri.si.edu/microbiome-workshop.
 
 ## Pura Vida
-On a field expedition in Costa Rica during an exterme low tide event in March 2018. Accoompanied by amazing friends. Biodiversity. Life. Connecting with wonderful researchers. 
+On a field expedition in Costa Rica during an exterme low tide event in March 2018. Accompanied by amazing friends. Biodiversity. Life. Connecting with wonderful researchers. 
 {{< figure library="true" src="UCR.jpg" caption="*Meeting our collaborator Dra. Yolanda Camacho at the University of Costa Rica*" >}}
 {{< figure library="true" src="puravida1.jpg" caption="*Sea anemone in Guanacaste, Costa Rica*" >}}
 {{< figure library="true" src="puravida2.jpg" caption="*Tamatoa's cousin*" >}}
