@@ -11,10 +11,10 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: Max Planck Institute for Marine Microbiology, Bremen
-  url: ""
+  url: "https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: To be filled. TRIAL TRIAL TRIAL!!!
+bio: PhD student at the MPI for Marine Microbiology.
 
 
 # Social/Academic Networking
@@ -24,13 +24,13 @@ bio: To be filled. TRIAL TRIAL TRIAL!!!
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/odealab
+  link: https://twitter.com/isimorel?lang=en
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=fRRMQjoAAAAJ&hl=en
 - icon: readme
   icon_pack: fab
-  link: https://odealab.com/
+  link: https://orcid.org/0000-0003-1402-2393
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -38,7 +38,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "imorel@mpi-bremen.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -49,4 +49,4 @@ user_groups:
 - Ph.D. Students
 ---
 
-Some text from/about Isidora.
+Isidora (she/her) is a Chilean feminist PhD student at the Eco-Evolutionary Interactions group (starting March 2020) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She is interested on the evolution of cooperative interactions -i.e. symbiosis - in an ecological context. 
