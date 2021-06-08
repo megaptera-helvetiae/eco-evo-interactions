@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Ph.D. Students
 ---
 
 Dr. Laetitia G.E. Wilkins is a Research Group Leader (starting March 2022) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She cares about diversity, creativity and an inclusive environment in academia. She strongly supports reproducible and open research.
