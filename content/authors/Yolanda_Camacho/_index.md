@@ -46,4 +46,5 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Yolanda Camacho-García is a marine biologist and professor at the Biology School, University of Costa Rica (UCR). She is also a researcher at the Centro de Investigación en Ciencias del Mar y Limnología (CIMAR), Centro de Investigaciones en Estructuras Miscroscópicas (CIEMic), and the Centro de Investigaciones en Biodiversidad y Ecología Tropical (CIBET).  She is the curator in charge of the Malacology Collection at the Zoology Museum.  She is interested in studying and documenting the biodiversity of marine mollusks along both coasts of Costa Rica. The main focus of her research is the taxonomy, systematics, and molecular phylogeny of heterobranch mollusks. However, in the last three years, she has extended this work to the bivalve genus Leukoma, and also the ecology and diversity of mangrove mollusks.
+
