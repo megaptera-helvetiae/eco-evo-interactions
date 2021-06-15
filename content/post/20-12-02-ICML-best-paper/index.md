@@ -1,9 +1,11 @@
 ---
 title: Eco-Evo Interactions Website is up!
 date: 2021-05-22
+authors:
+- 'admin'
 ---
 
-We have been working with a Template of [Wowchemy](https://wowchemy.com/), using the [Hugo](https://gohugo.io/) static site generator to create a website for our future group. 
+We have been working with a Template of [Wowchemy](https://wowchemy.com/), using the [Hugo](https://gohugo.io/) static site generator to create a website for our future group.
 
 <!--more-->
 

@@ -1,9 +1,11 @@
 ---
 title: Our first graduate student has started!
 date: 2021-06-01
+authors:
+- 'admin'
 ---
 
-Our first Ph.D. student has joined the group. This is a dream-come-true! I am so happy. 
+Our first Ph.D. student has joined the group. This is a dream-come-true! I am so happy.
 
 <!--more-->
 
