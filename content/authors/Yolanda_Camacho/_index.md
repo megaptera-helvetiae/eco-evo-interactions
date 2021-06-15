@@ -10,7 +10,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Costa Rica, Costa Rica
+- name: University of Costa Rica
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
