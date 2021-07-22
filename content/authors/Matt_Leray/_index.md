@@ -49,4 +49,4 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Matt is an incredbile scientist. He has shaped the field of metabarcoding and eDNA studies signifcantly. Using environmental sampling and experimental manipulations he is studying marine biodiversity. He is particularly interested in finding out how ecological interactions promote the stability and resilience of marine communities. Matt is based in Panamá where he works at the Smithsonian Tropical Research Institute (STRI). We are working together on a project to investigate how the rise of the Isthmus of Panamá has affected the microbiome structure and evolution in geminate sister pairs (snapping shrimp, reef fish, and lucinid clams). Check out Matt's [Field Guides](https://www.matthieuleray.website/guides-protocols) that he created together with his students, among others, [Friederike Clever](https://www.researchgate.net/profile/Friederike-Clever), [Helio Quintero](https://www.matthieuleray.website/students), and [Rhiannon Harvey](https://www.matthieuleray.website/students). 
