@@ -55,4 +55,4 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Jonathan Eisen is an evolutionary biologist, a professor, a blogger, a promoter and defender of open access in the life sciences, a constant learner, a feminist, and a wonderful mentor. Without him, we would not be here now. Read more about him on his (website)[https://phylogenomics.me/], follow him on (Twitter)[https://twitter.com/phylogenomics?lang=en], or watch his (TED talk)[https://www.tedmed.com/speakers/show?id=6589].  
