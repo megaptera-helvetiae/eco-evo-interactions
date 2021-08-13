@@ -10,7 +10,7 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute for Marine Microbiology
+- name: Max Planck Institute for Marine Microbiology, Bremen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,4 +43,4 @@ user_groups:
 - Master Students
 ---
 
-Carlotta decided to join our group for a Master's thesis project. We are super excited to host her. We will follow up soon with details on her Master's project. Welcome Carlotta!!!
+Carlotta decided to join our group for a Master's thesis project. We are thrilled to host her. We will follow up soon with details on her Master's project. Welcome Carlotta!!!
