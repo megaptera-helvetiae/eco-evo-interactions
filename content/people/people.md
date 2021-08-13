@@ -21,6 +21,7 @@ content:
   - Ph.D. Students
   - Master Students
   - Visitors
+  - Open Positions
   - Collaborators
   - Administration
   - Alumni

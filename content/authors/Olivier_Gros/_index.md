@@ -46,4 +46,9 @@ user_groups:
 - Collaborators
 ---
 
+<<<<<<< HEAD
 Olivier is a lucinid clam researchers from Guadeloupe. He has contributed the most amazing break-throughs in lucinid research from inducing spawning, to larval development, uptake of the symbiont, experimental incubations, and adult starvation; just to mention a few. Olivier has been very supportive to our group and he would not hesitate to help us when we are in need of advice, suggestions, or even alive clams. Olivier is a great mentor and we hope to keep our collaboration strong. 
+=======
+Olivier is a lucinid clam researcher from Guadeloupe. He is a professor at the Université des Antilles. He has contributed the most amazing break-throughs in lucinid research from induced spawning, to larval development, uptake of the symbiont, experimental incubations, and adult starvation and re-incubation with bacterial symbionts; just to mention a few. Olivier has been very supportive to our group and he would not hesitate to help us when we are in need of advice, suggestions, or even alive clams. Also his former Ph.D. students [Jean-Marie Volland](https://jgi.doe.gov/our-science/scientists-jgi/single-cells/) and [Nathalie Elisabeth](https://biosciences.lbl.gov/profiles/nathalie-elisabeth/) have been super nice to us. Olivier is a great mentor and we hope to keep our collaboration strong. 
+
+>>>>>>> c08afa349d8839da0ceebb9b7c86aa6a192a7f39
