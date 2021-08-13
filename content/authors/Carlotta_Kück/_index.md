@@ -6,7 +6,7 @@ title: Anna Carlotta  Kück
 superuser: false
 
 # Role/position
-role: Master student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
