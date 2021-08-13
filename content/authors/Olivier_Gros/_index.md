@@ -46,4 +46,5 @@ user_groups:
 - Collaborators
 ---
 
-Some more text to be filled.
+Olivier is a lucinid clam researchers from Guadeloupe. He has contributed the most amazing break-throughs in lucinid research from induced spawning, to larval development, uptake of the symbiont, experimental incubations, and adult starvation and re-incubation with bacterial symbionts; just to mention a few. Olivier has been very supportive to our group and he would not hesitate to help us when we are in need of advice, suggestions, or even alive clams. Olivier is a great mentor and we hope to keep our collaboration strong. 
+
