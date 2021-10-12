@@ -16,10 +16,11 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigator
-  - Postdocs
   - Ph.D. Students
+  - Postdocs
   - Master Students
+  - Principal Investigator
+  - Honorary Members
   - Visitors
   - Open Positions
   - Collaborators
