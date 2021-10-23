@@ -1,5 +1,5 @@
 ---
-title: Our first graduate student has started!
+title: Isidora wins a poster prize!
 date: 2021-10-15
 authors:
 - 'admin'
