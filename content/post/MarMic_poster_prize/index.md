@@ -5,7 +5,7 @@ authors:
 - 'admin'
 ---
 
-Isidora won a prize at the MarMic retreat for her poster outlining the research for her Ph.D. thesis: "Frieds with benefits: How are bacterial partners involved in lucinid adaptation to environmental change"
+Isidora won a prize at the MarMic retreat for her poster outlining the research for her Ph.D. thesis: "Friends with benefits: How are bacterial partners involved in lucinid adaptation to environmental change"
 
 <!--more-->
 
