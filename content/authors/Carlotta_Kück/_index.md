@@ -43,4 +43,4 @@ user_groups:
 - Master Students
 ---
 
-Carlotta decided to join our team for a Master's thesis project. We are thrilled to host her. We will follow up soon with details on her Master's project. Welcome Carlotta!!!
+Carlotta decided to join our team for a Master's thesis project. We are thrilled to host her. We will follow up soon with details on her Master's project. Stay tuned and welcome Carlotta!!! 
