@@ -6,7 +6,7 @@ title: Bruno Hüttel
 superuser: false
 
 # Role/position
-role: Head of Genome Center
+role: Head of Genome Center, Cologne
 
 # Organizations/Affiliations
 organizations:
@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Honorary Members
+- Collaborators
 ---
 
 Bruno Hüttel runs the Max Planck sequencing center in Cologne and he has been fundamental in the establishment of our group. With seemingly never-endig patience and invaluable insight he is helping us design our first projects and plays therefore a big role in the future of EEI. Thanks to Bruno, we are creating some amazing sequencing datasets that will help us resolve the molecular evolution of lucinid clams and their bacterial partners that were separated together by the Isthmus of Panamá.
