@@ -46,6 +46,6 @@ user_groups:
 - Collaborators
 ---
 
-Oscar Puebla has traveled the same oceans as we are and it was a pleasant surprise when we found each other just across the streets here in Bremen. Oscar has lived and worked for more than seven 7 years in Panamá where he studied the evolution and diversification of reef fishes. Some of his favorite critters are the hamlets in coral reefs of the Caribbean Sea. Using whole genome sequencing data, his group is studying dispersal, adaptation, speciation, and adaptive radiation, and the implications of these processes for population management and conservation during global change.
+Oscar Puebla has traveled the same oceans as we do and it was a pleasant surprise when we found each other just across the street here in Bremen. Oscar has lived and worked for more than seven years in Panamá where he studied the evolution and diversification of reef fishes. Some of his favorite critters are hamlets in coral reefs of the Caribbean Sea. Using whole genome sequencing data, his group is studying dispersal, adaptation, speciation, and adaptive radiation, and the implications of these processes for population management and conservation during global change.
 
-We are happy to you are here and we look forward to joint group meetings!
+We are happy that you are here and we really enjoy joint group meetings and brainstorming sessions with you!
