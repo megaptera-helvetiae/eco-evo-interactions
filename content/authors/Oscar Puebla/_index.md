@@ -6,8 +6,7 @@ title: Oscar Puebla
 superuser: false
 
 # Role/position
-role: Professor at University of Oldenburg and ZMT Bremen
-
+role: Professor
 # Organizations/Affiliations
 organizations:
 - name: University of Oldenburg (ICBM) & Leibniz Centre for Tropical Marine Research (ZMT) Bremen
