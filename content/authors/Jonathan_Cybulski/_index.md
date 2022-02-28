@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cassandra Ettinger
+title: Jonathan Cybulski
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,7 +10,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Riverside
+- name: University of Hong Kong, Stable Isotope Ratio for Mass Spectrometry (SIRMS) Laboratory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,13 +24,13 @@ bio: To be filled.
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/casettron
+  link: https://twitter.com/joncybulski
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=79nwG_kAAAAJ&hl=en
+  link: https://scholar.google.com.hk/citations?user=y_nxFL8AAAAJ&hl=en
 - icon: readme
   icon_pack: fab
-  link: https://casett.github.io/
+  link: https://www.jonathancybulski.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,4 +49,10 @@ user_groups:
 - Collaborators
 ---
 
-Cassie is currently a postdoctoral researcher in the Department of Microbiology and Plant Pathology at the University of California, Riverside in [Prof. Jason Stajich's group](http://lab.stajich.org/home/people/jason-stajich/). She works on a variety of genomic, metagenomic, and phylogenomic projects at the interface of both host (insects, amphibians, seaweed and seagrass) and microbe (bacteria, fungi) interactions. Her research interests range from sea to summit and encompass questions related to host-microbe interactions, host-microbiome coevolution, and marine fungi. Cassie is a National Microbiome Data Collective Champion of FAIR (Findable, Accessible, Interoperable, and Reusable) data practices. She is heavily involved in outreach activities. You can listen to an interview of Cassie by Mushroom Revival [here](https://www.mushroomrevival.com/blogs/podcast/a-quick-look-at-marine-fungi).
+Jonathan Cybulski is a historical ecologist and science communicator, National Geographic Explorer, Smithsonian Fellow, Ted Speaker and Weight lifter. He was recently awarded the prestigious Earl S. Tupper postdoctoral fellowship, which he will start in summer 2022 at the Smithsonian Tropical Research Institute (STRI) in Panamá.
+
+To predict what will happen to corals in the future, Jonathan is studying past environmental variability and their effects on the ecosystem. One opportunity to do so is the mid Holocene sea level highstand that occurred after last glacial maximum. Future ice melt is projected to cause sea level rises similar to those that occurred during this highstand. He uses sediment push-cores and coral sub-fossil data from Panamá to find evidence whether this highstand really occurred and what effect it had on past coral assemblages. 
+
+Other projects, Jonathan is working on, include studying the effects of lime-kilns on local coral reefs in Sri Lanka and Hong Kong (National Geographic Explorer Research), the historical ecology of Hong Kong coral, and nitrogen incorporation and use as historic proxy. 
+
+We were introduced to Jonathan by Aaron O'Dea and we have met virtually at several occasions, knowingly and unknowingly. Jonathan is helping us look back in time with the use of lucinid fossils and their natural isotopic signatures of nitrogen, carbon and sulfur. If the pandemic allows, we might even meet for the first time in person this year, when Jonathan will travel to Germany for a research visit at the Max Planck Institute for Chemistry in Mainz. 
