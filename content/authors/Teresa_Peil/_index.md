@@ -43,4 +43,4 @@ user_groups:
 - Master Students
 ---
 
-Teresa is currently visiting us for an internship. She is a Master student in Marine Biology at the University of Rostock. Teresa is particularly interested in gaining a deeper understanding of aquatic microbial ecology, global change biology, and the biogeochemistry of oceans. She is currently working with Isidora hunting the free-living relatives of _Olavius algarvensis_ symbionts. 
+Teresa is currently visiting us for an internship. She is a Master student in Marine Biology at the University of Rostock. Teresa is particularly interested in gaining a deeper understanding of aquatic microbial ecology, global change biology, and the biogeochemistry of oceans. During her internship, she is hunting the free-living relatives of _Olavius algarvensis_ symbionts with Isidora. 
