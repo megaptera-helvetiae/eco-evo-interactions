@@ -25,6 +25,9 @@ social:
 - icon: readme
   icon_pack: fab
   link: https://marmic.mpg.de/marmic2/participating.php?section=students&profile=ckueck@mpi-bremen.de
+  - icon: twitter
+    icon_pack: fab
+    link:  https://mobile.twitter.com/CarlottaKueck
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
