@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cassandra Ettinger
+title: Jessica Lueders-Dumont
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,7 +10,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Riverside
+- name: Princeton University / STRI Panamá
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,13 +24,13 @@ bio: To be filled.
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/casettron
+  link: https://twitter.com/talkstodiatoms
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=79nwG_kAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=H_qft9cAAAAJ&hl=en
 - icon: readme
   icon_pack: fab
-  link: https://casett.github.io/
+  link: https://sites.google.com/view/otolithnitrogen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,4 +49,8 @@ user_groups:
 - Collaborators
 ---
 
-Cassie is currently a postdoctoral researcher in the Department of Microbiology and Plant Pathology at the University of California, Riverside in [Prof. Jason Stajich's group](http://lab.stajich.org/home/people/jason-stajich/). She works on a variety of genomic, metagenomic, and phylogenomic projects at the interface of both host (insects, amphibians, seaweed and seagrass) and microbe (bacteria, fungi) interactions. Her research interests range from sea to summit and encompass questions related to host-microbe interactions, host-microbiome coevolution, and marine fungi. Cassie is a National Microbiome Data Collective Champion of FAIR (Findable, Accessible, Interoperable, and Reusable) data practices. She is heavily involved in outreach activities. You can listen to an interview of Cassie by Mushroom Revival [here](https://www.mushroomrevival.com/blogs/podcast/a-quick-look-at-marine-fungi).
+Jessica uses nitrogen isotopes, especially carbonate-bound organic matter in fish otoliths (ear stones) to track biogeochemical processes and food webs on multiple time scales. She is affiliated with the Smithsonian Tropical Research Institute, Princeton University, MarineGEO, and she is a Leifur Eiríksson Foundation Fellow. 
+
+By studying the isotopic composition of proteins that are protected through time in a robust calcarous matrix, Jessica sheds light on oceanographic and ecological conditions of the past. For example, the paleoecology of Miocene fishes using otoliths from Panamá Isthmus marine sediments. These studies address critical questions concerning marine ecosystem functioning prior to current anthropogenic impacts, especially the role of biodiversity in ecosystem stability, the role of large fish in marine food webs, and how changes in nutrient availability affect food web structure.
+
+I heard the first time of Jessica during a lab meeting with Aaron O'Dea and I reached out to her for help with getting isotopic signatures out of lucinids fossils. Jessica advised us on how to prepare the shells and got me hooked on dremeling. 

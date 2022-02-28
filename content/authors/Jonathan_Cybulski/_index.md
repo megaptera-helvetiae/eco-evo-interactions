@@ -49,10 +49,10 @@ user_groups:
 - Collaborators
 ---
 
-Jonathan Cybulski is a historical ecologist and science communicator, National Geographic Explorer, Smithsonian Fellow, Ted Speaker and Weight lifter. He was recently awarded the prestigious Earl S. Tupper postdoctoral fellowship, which he will start in summer 2022 at the Smithsonian Tropical Research Institute (STRI) in Panamá.
+Jonathan Cybulski is a historical ecologist and science communicator, National Geographic Explorer, Smithsonian Fellow, TED Speaker and Weight lifter. He was recently awarded the prestigious Earl S. Tupper postdoctoral fellowship, which he will start in summer 2022 at the Smithsonian Tropical Research Institute (STRI) in Panamá.
 
-To predict what will happen to corals in the future, Jonathan is studying past environmental variability and their effects on the ecosystem. One opportunity to do so is the mid Holocene sea level highstand that occurred after last glacial maximum. Future ice melt is projected to cause sea level rises similar to those that occurred during this highstand. He uses sediment push-cores and coral sub-fossil data from Panamá to find evidence whether this highstand really occurred and what effect it had on past coral assemblages. 
+To predict what will happen to corals in the future, Jonathan is studying past environmental variability and their effects on the ecosystem. One opportunity to do so is the mid Holocene sea level highstand that occurred after the last glacial maximum. Future ice melt is projected to cause sea level rises similar to those that occurred during this highstand. He uses sediment push-cores and coral sub-fossil data from Panamá to find evidence whether this highstand really occurred and what effect it had on past coral assemblages. 
 
-Other projects, Jonathan is working on, include studying the effects of lime-kilns on local coral reefs in Sri Lanka and Hong Kong (National Geographic Explorer Research), the historical ecology of Hong Kong coral, and nitrogen incorporation and use as historic proxy. 
+Other projects Jonathan is working on include studying the effects of lime-kilns on local coral reefs in Sri Lanka and Hong Kong (National Geographic Explorer Research), the historical ecology of Hong Kong coral, and nitrogen incorporation and its use as historic proxy. 
 
 We were introduced to Jonathan by Aaron O'Dea and we have met virtually at several occasions, knowingly and unknowingly. Jonathan is helping us look back in time with the use of lucinid fossils and their natural isotopic signatures of nitrogen, carbon and sulfur. If the pandemic allows, we might even meet for the first time in person this year, when Jonathan will travel to Germany for a research visit at the Max Planck Institute for Chemistry in Mainz. 
