@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The EcoEvoInt Group was launched in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen. The group is led by Dr. Laetitia Wilkins who was offered to establish an independent Max Planck Research Group at an institute of her choice. Isidora Morel and Anna Carlotta Kück are both "founding members". Their contribution and feedback is invaluable. 
+The EcoEvoInt Group was launched in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen. The group is led by [Dr. Laetitia Wilkins](https://www.ecoevoint.ch/author/laetitia-g.e.-wilkins/) who was offered to establish an independent Max Planck Research Group at an institute of her choice. [Isidora Morel](https://www.ecoevoint.ch/author/isidora-morel-letelier/) and [Anna Carlotta Kück](https://www.ecoevoint.ch/author/anna-carlotta-kuck/) are both "founding members". Their contribution and feedback is invaluable. 
