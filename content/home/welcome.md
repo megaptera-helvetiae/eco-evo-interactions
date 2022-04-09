@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Eco-Evolutionary Interactions"
+title: ""
 subtitle: ""
 hero_media: LucinidClam_IsthmusofPanama_v1_Full.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The EcoEvoInt Group was launched in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen. The group is led by Dr. Laetitia Wilkins who was offered to establish an independent Max Planck Research Group at an institute of her choice. Isidora Morel and Anna Carlotta Kück are both "founding members" as they had already been working with Dr. Wilkins as graduate students before the group became official. Their contribution and feedback is invaluable. 
+The EcoEvoInt Group was launched in March 2022 at the Max Planck Institute for Marine Microbiology in Bremen. The group is led by Dr. Laetitia Wilkins who was offered to establish an independent Max Planck Research Group at an institute of her choice. Isidora Morel and Anna Carlotta Kück are both "founding members". Their contribution and feedback is invaluable. 
