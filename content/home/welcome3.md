@@ -19,5 +19,4 @@ advanced:
   css_style:
   css_class:
 ---
-
-In the Eco-Evolutionary Interactions Group, we study how the closure of the Isthmus of Panamá affected the evolution of marine microbial symbioses. This natural experiment provides great insight into evolutionary processes of eukaryote and microbial adaptation and speciation. We use molecular genetic tools and combine them with experimental set-ups and biogeochemistry to learn how populations cope with environmental change. 
+Do not hesitate to [reach out to us](https://www.ecoevoint.ch/contact/) if you are interested in our research. We are a [small group](https://www.ecoevoint.ch/people/) but we are happy to host visiting students or Master projects. We are currently also looking for a postdoctoral researcher to join our group who is interested in comparative genomics and/or population genomic analyses of lucinid clams that went through an allopatric speciation event and have adapted to diverging environmental conditions. 
