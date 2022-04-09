@@ -11,6 +11,10 @@ subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+ # Use a dark navy background with light text.
+  background:
+color: 'navy'
+text_color_light: true
 advanced:
   css_style:
   css_class:
