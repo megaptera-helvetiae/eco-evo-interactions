@@ -6,7 +6,7 @@ title: Laetitia G.E. Wilkins
 superuser: true
 
 # Role/position
-role: Max Planck Research Group Leader (starting March 2022)
+role: Max Planck Research Group Leader
 
 # Organizations/Affiliations
 organizations:
