@@ -14,5 +14,5 @@ Aaron O'Dea visited us and we discussed the evolution of nitrogen fixation and h
 
 {{< figure library="true" src="Aaron_and_Duri.jpg" caption="Good times with the Postdogs" >}}
 
-Raquel Peixoto also took some time for us during her busy schedule and we had dinner together. Raquel is the new incoming president elect of ISME (International Society for Microbial Ecology) and we got to see each other a few weeks later in Lausanne, Switzerland at isme-18. Raquel raved about KAUST and its amazing research opportunities and we pondered about collaborative projects in the Red Sea.
+Raquel Peixoto also took some time for us during her busy schedule and we had dinner together. Raquel is the new incoming vice-president elect of ISME (International Society for Microbial Ecology). She will be become ISME president in two years from now. We got to see each other a few weeks later in Lausanne, Switzerland at isme-18. Raquel raved about KAUST and its amazing research opportunities and we pondered about collaborative projects in the Red Sea.
 {{< figure library="true" src="Raquel_and_pizza.jpg" caption="Magic moments with Raquel" >}}
