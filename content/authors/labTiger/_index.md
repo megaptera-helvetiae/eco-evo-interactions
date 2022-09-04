@@ -1,16 +1,16 @@
 ---
 # Display name
-title: labTiger
+title: Martina Patze
 
 # Username (this should match the folder name)
 authors:
-- labTiger
+- Martina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Comforting lab members
+role: Helping us with administration
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. Part of her time she helps out with the Master's program Marine Microbiology (MarMic).
 
 
 # Social/Academic Networking
@@ -41,4 +41,4 @@ user_groups:
 - Administration
 ---
 
-labTiger is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Martina blabla
