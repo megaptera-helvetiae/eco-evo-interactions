@@ -21,13 +21,6 @@ bio: Master student at the MPI for Marine Microbiology.
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/isimorel?lang=en
-- icon: readme
-  icon_pack: fab
-  link: https://orcid.org/0000-0003-1402-2393
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -35,7 +28,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "imorel@mpi-bremen.de"
+email: "ksantha@mpi-bremen.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
