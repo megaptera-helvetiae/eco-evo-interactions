@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. Part of her time she helps out with the Master's program Marine Microbiology (MarMic).
+bio: To be filled later.
 
 
 # Social/Academic Networking
@@ -41,4 +41,4 @@ user_groups:
 - Administration
 ---
 
-Martina blabla
+Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. Part of her time she helps out with the Master's program Marine Microbiology (MarMic).
