@@ -6,7 +6,7 @@ title: Anna Carlotta  Kück
 superuser: false
 
 # Role/position
-role: Master Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
-Carlotta decided to join our team for a Master's thesis project. We are thrilled to host her. We will follow up soon with details on her Master's project. Stay tuned and welcome Carlotta!!! 
+Carlotta decided to join our team for a Master's thesis project in the MarMic program 2021/2022. She studied the evolution of nitrogen fixation in lucinid clams and did several experimental incubations of Ctena imbricatula and their bacterial symbionts from Guadeloupe. After completing her Master thesis, she decided to stay in our group for a Ph.D. project. Carlotta is co-mentored by Dr. Wiebke Mohr at the Biogeochemistry Department at the MPIMM and Prof. Oliver Gros at the Université des Antilles, Pointe-à-Pitre, in Guadeloupe.
+
+
