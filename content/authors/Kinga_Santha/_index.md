@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kinga Santha
+title: Kinga Sántha
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,4 +46,4 @@ user_groups:
 - Master Students
 ---
 
-Kinga Santha is going to start her MarMic Master thesis with us on September 15th in 2022. We are thrilled to host you!!
+Kinga Sántha is going to start her MarMic Master thesis with us on September 15th in 2022. We are thrilled to host you!!

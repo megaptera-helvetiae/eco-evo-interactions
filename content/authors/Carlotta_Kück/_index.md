@@ -51,4 +51,6 @@ Carlotta decided to join our team for a Master's thesis project in the MarMic pr
 
 For her Ph.D. project, Carlotta is writing a pipeline to analyze gene expression in lucinid hosts and their symbionts and she is is using it to compare lucinid nitrogen cycling on both sides of the Isthmus of Panamá. Together with Dr. Bruno Hüttel and Dr. Benedict Yuen, she is also developing and testing a ribosomal depletion kit for a range of lucinid species and their bacterial symbionts. Together with Prof. Olivier Gros, Carlotta is studying seasonality in nitrogen fixation in Guadeloupe, including seagrass and mangrove habitats.
 
-Carlotta keeps bringing people together and starting some really nice collaborations. She has been helped launching our research group and contributed hope, motivation, and strength. Forming, storming, conforming, performing.
+Carlotta brings people together and started some really nice collaborations. She has helped launching our research group and contributes hope, motivation, and strength. 
+
+Forming, storming, conforming, performing.

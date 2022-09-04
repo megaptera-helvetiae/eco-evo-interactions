@@ -41,6 +41,6 @@ user_groups:
 - Administration
 ---
 
-Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. Part of her time she helps out with the Master's program Marine Microbiology (MarMic).
+Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. She is also involved in the Master's program Marine Microbiology (MarMic).
 
-Martina works most of her time as administrator for Nicole Dubilier's Department of Symbiosis. We are very thankful that Martina also takes time to help such a small group like us.
+Martina works most of her time as administrator for Director Nicole Dubilier's Department of Symbiosis. We are very thankful that Martina also takes time to help such a small group like us.
