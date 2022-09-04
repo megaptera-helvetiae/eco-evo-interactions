@@ -1,31 +1,33 @@
 ---
 # Display name
-title: Martina Patze
-
-# Username (this should match the folder name)
-authors:
-- Martina
+title: Kinga Santha
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Helping us with administration
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute for Marine Microbiology, Bremen, Germany
-  url: ""
+- name: Max Planck Institute for Marine Microbiology, Bremen
+  url: "https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: To be filled later.
+bio: Master student at the MPI for Marine Microbiology.
 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/isimorel?lang=en
+- icon: readme
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-1402-2393
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -33,14 +35,15 @@ bio: To be filled later.
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "imorel@mpi-bremen.de"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administration
+- Master Students
 ---
 
-Martina has been an administrator in industry and joined the MPIMM in 2021. She is organizing travel for us, helps with onboarding, invoices, logistics, and events. Part of her time she helps out with the Master's program Marine Microbiology (MarMic).
-
-Martina works most of her time as administrator for Nicole Dubilier's Department of Symbiosis. We are very thankful that Martina also takes time to help such a small group like us.
+Kinga Santha is going to start her MarMic Master thesis with us on September 15th in 2022. We are thrilled to host you!!
