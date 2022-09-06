@@ -6,7 +6,7 @@ title: Matthieu Leray
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Staff Scientist
 
 # Organizations/Affiliations
 organizations:
