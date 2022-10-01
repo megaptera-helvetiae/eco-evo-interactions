@@ -14,4 +14,4 @@ Last week, we traveled to Rostock for our first EEI retreat. We cooked together.
 
 It was too short. Next time, we will plan a few more days. 
 {{< figure library="true" src="retreat2.jpg" caption="We stayed at a windmill where we played games each night until we fell asleep." >}}
-{{< figure library="true" src="retreat23.jpg" caption="Duri, our postdog enjoyed it as well." >}}
+{{< figure library="true" src="retreat3.jpg" caption="Duri, our postdog enjoyed it as well." >}}
