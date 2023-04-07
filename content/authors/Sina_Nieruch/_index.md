@@ -46,4 +46,10 @@ user_groups:
 - Bachelor Students
 ---
 
-Text blurb from Sina.
+Sina Nieruch has been helping us as a student assistant for over a year. At times, her contributions were absolutely essential for the lab to be up and running. Ms. Nieruch took care of clams in starvation; built shields to protect aquaria from light and reduce algal growth on starved clams; she washed and prepared sediment as a new home for our non-starved clams; she measured growth of our clams in captivity; and she helped build our confluence documentation website.
+
+We considered ourselves very fortunate, when Ms. Nieruch decided to write a Bachelor thesis in our research group.
+For her Bachelor thesis, she developed a method to drill holes in lucinid clam shells and collect shell powder in a clean and reproducible way for isotopic analyses. Using her newly developed protocol, she measured natural isotopic signatures of lucinid clam shells from various habitats and complemented her data with isotopic measurements of gills that she measured in parallel. 
+
+For her work on gill isotopic signatures of carbon and nitrogen, she tested, whether fixing gills in DNA/RNA shield from Zymo Biomics will affect the measurements. 
+

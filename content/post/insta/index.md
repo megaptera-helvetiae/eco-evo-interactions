@@ -5,14 +5,10 @@ authors:
 - 'admin'
 ---
 
-We found a way how to share images and videos of our exciting work. Carlotta took the lead and created an instagram account for our research group.
+Many aspects of our daily work can be best shared with a quick photo or video. Therefore, we decided to join instagram: https://www.instagram.com/ecoevoint/
 <!--more-->
 
-As part of the [#istmobiome project](https://istmobiome.rbind.io/), we have made many friends in the world. We could not see each other in years because of the COVID-19 pandemic. However, this summer, people started traveling again and we got some amazing visitors. 
+Carlotta took the lead and created an [instagram account](https://www.instagram.com/ecoevoint/) for our research group. Now we are trying to regularly share our special moments with you. Whether it is [diving in the mangroves](https://www.instagram.com/ecoevoint/), or [running our digital PCR instrument](https://www.instagram.com/ecoevoint/) for the first time. Research can be super exciting and we want to hold on to these moments of beauty and joy. Peer-reviewed publications are only the endproduct and they do not tell you about all the joy and pain we experienced along the way. 
 
-Aaron O'Dea visited us and we discussed the evolution of nitrogen fixation and how fossils can help us to reconstruct past lucinid symbioses and their nitrogen metabolism.
-
-{{< figure library="true" src="Aaron_and_Duri.jpg" caption="Good times with the Postdogs" >}}
-
-Raquel Peixoto also took some time for us during her busy schedule and we had dinner together. Raquel is the new incoming vice-president elect of ISME (International Society for Microbial Ecology). She will become ISME president in two years from now. We got to see each other a few weeks later in Lausanne, Switzerland at isme-18. Raquel raved about KAUST and its amazing research opportunities and we pondered about collaborative projects in the Red Sea.
-{{< figure library="true" src="Raquel_and_pizza.jpg" caption="Magic moments with Raquel" >}}
+{{< figure library="true" src="divinginthemangroves.jpg" caption="Diving in the mangroves" >}}
+{{< figure library="true" src="QiAcuity.jpg" caption="QIAcuity One digital PCR machine" >}}
