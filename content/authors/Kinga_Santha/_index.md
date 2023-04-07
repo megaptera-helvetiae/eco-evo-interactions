@@ -36,7 +36,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
-Kinga Sántha is going to start her MarMic Master thesis with us on September 15th in 2022. We are thrilled to host you!!
+Ms. Kinga Sántha wrote her Master's thesis in our group. She quantified bacterial abundance in lucinid gills using digital PCR and looked for free-living lucinid symbionts in the sediment from Bahía Santa Elena in Guanacaste, Costa Rica and from Guadeloupe. These sediments represent natural habitats of lucinid clams and were used in Isidora Morel's starvatation and re-infection experiments. Ms. Sántha got very excited about sulfide and its role in the lucinid symbiosis. We wish her all the best with her Ph.D. in Jasmine Berg's lab at UNIL, Lausanne, Switzerland.
