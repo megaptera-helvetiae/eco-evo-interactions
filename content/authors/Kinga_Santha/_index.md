@@ -14,7 +14,7 @@ organizations:
   url: "https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master student at the MPI for Marine Microbiology.
+bio: Previous Master student at the MPI for Marine Microbiology.
 
 
 # Social/Academic Networking
@@ -39,4 +39,4 @@ user_groups:
 - Alumni
 ---
 
-Ms. Kinga Sántha wrote her Master's thesis in our group. She quantified bacterial abundance in lucinid gills using digital PCR and looked for free-living lucinid symbionts in the sediment from Bahía Santa Elena in Guanacaste, Costa Rica and from Guadeloupe. These sediments represent natural habitats of lucinid clams and were used in Isidora Morel's starvatation and re-infection experiments. Ms. Sántha got very excited about sulfide and its role in the lucinid symbiosis. We wish her all the best with her Ph.D. in Jasmine Berg's lab at UNIL, Lausanne, Switzerland.
+Ms. Kinga Sántha wrote her Master's thesis in our group. She quantified bacterial abundance in lucinid gills using digital PCR and looked for free-living relatives of lucinid symbionts in the sediment from Bahía Santa Elena in Guanacaste, Costa Rica and from Guadeloupe. These sediments represent natural habitats of lucinid clams and were used in Isidora Morel's starvatation and re-infection experiments. Ms. Sántha got very excited about sulfide and its role in the lucinid symbiosis. We wish her all the best with her Ph.D. in Jasmine Berg's lab at UNIL, Lausanne, Switzerland.
