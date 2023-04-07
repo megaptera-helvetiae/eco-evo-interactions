@@ -19,6 +19,7 @@ content:
   - Ph.D. Students
   - Postdoctoral Researchers
   - Master Students
+  - Bachelor Students
   - Principal Investigator
   - Honorary Members
   - Visitors
