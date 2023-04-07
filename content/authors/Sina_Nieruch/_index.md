@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isidora Morel Letelier
+title: Sina Nieruch
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.mpi-bremen.de/Max-Planck-Institut-fuer-Marine-Mikrobiologie-in-Bremen.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student at the MPI for Marine Microbiology.
+bio: Bachelor student at the University of Osnabrück.
 
 
 # Social/Academic Networking
@@ -46,4 +46,4 @@ user_groups:
 - Bachelor Students
 ---
 
-Isidora (she/her) is a Chilean feminist PhD student in the Eco-Evolutionary Interactions group (started in June 2021) at the Max Planck Institute for Marine Microbiology in Bremen, Germany. She is interested in the evolution of cooperative interactions in an ecological context.
+Text blurb from Sina.
