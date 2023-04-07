@@ -6,7 +6,7 @@ title: Kinga Sántha
 superuser: true
 
 # Role/position
-role: Master Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
