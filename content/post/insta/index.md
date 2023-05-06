@@ -13,3 +13,4 @@ Carlotta took the lead and created an [instagram account](https://www.instagram.
 
 {{< figure library="true" src="mangroves2.jpg" caption="Finding peace in the mangroves" >}}
 {{< figure library="true" src="digital_PCR.jpg" caption="QIAcuity One digital PCR machine and its users" >}}
+
