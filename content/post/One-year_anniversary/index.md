@@ -20,7 +20,7 @@ To celebrate our growth, we slowed down, congratulated each other, and endulged 
 
 
 After we ran out of pottery, we walked over to Universum and explored their permanent exhibition. We sat through an earthquake simulation (it made Isidora feel like home), we played with sand, and we had a faulty AI algorithm try to recognize our emotions.
-We ended this special birthday with some barbecue and bad Bremen Ramen noodles at Soulm8.
+We ended this special birthday with some nice dinner at "soulmate".
 
 {{< figure library="true" src="surprised.jpg" caption="*surprised???*" >}}
 {{< figure library="true" src="tunnels.jpg" caption="*building up a new home*" >}}
